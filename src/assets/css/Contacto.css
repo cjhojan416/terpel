@@ -1,0 +1,36 @@
+.contac img{
+height: 40%;
+width: 7%;
+}
+.oficina{
+    height: 15%;
+    width: 100%;
+    display: flex;
+ align-items: center;
+    padding: 5%;
+}
+.contac{
+ 
+    width: 25%;
+    height: 100%;
+    color: white;
+  display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.correo{
+    height: 15%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 5%;
+}
+.telefono{
+    height: 15%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 5%;
+ 
+}
